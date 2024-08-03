@@ -1,0 +1,31 @@
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\bin\Debug\2SemMainProject.exe.config
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\bin\Debug\2SemMainProject.exe
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\bin\Debug\2SemMainProject.pdb
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\bin\Debug\MetroFramework.Design.dll
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\bin\Debug\MetroFramework.dll
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\bin\Debug\MetroFramework.Fonts.dll
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\_2SemMainProject.Properties.Resources.resources
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\2SemMain.2D3A1075.Up2Date
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.exe
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.pdb
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\_2SemMainProject.POS_Form.resources
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\_2SemMainProject.LoginForm.resources
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\_2SemMainProject.OtherForms.Billing_Form.resources
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\_2SemMainProject.OtherForms.Dash_Board.resources
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\_2SemMainProject.OtherForms.Customer_Form.resources
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\_2SemMainProject.OtherForms.Item_Form.resources
+D:\thisara\2SemMainProject (2)\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.csproj.AssemblyReference.cache
+D:\thisara\2SemMainProject (2)\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.exe
+D:\thisara\2SemMainProject (2)\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.pdb
+C:\Users\CHAMA COMPUTERS\Downloads\2SemMainProject Dulan\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.csproj.AssemblyReference.cache
+C:\Users\CHAMA COMPUTERS\Downloads\2SemMainProject Dulan\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.exe
+C:\Users\CHAMA COMPUTERS\Downloads\2SemMainProject Dulan\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.pdb
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\bin\Debug\2SemMainProject.exe.manifest
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\bin\Debug\2SemMainProject.application
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.TrustInfo.xml
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.exe.manifest
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\2SemMainProject.application
+C:\VISUAL STUDIO\2SemMainProject\2SemMainProject\obj\Debug\_2SemMainProject.OtherForms.Report_Form.resources
